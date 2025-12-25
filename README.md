@@ -9,7 +9,7 @@ YJIT - Yet Another Ruby JIT
 
 YJIT has been merged upstream, and is now an official part of Ruby 3.1+.
 
-For more information on how to build and use YJIT, see the [YJIT README](https://github.com/ruby/ruby/blob/master/doc/yjit/yjit.md).
+For more information on how to build and use YJIT, see the [YJIT README](https://github.com/ruby/ruby/blob/master/doc/jit/yjit.md).
 
 If you want to report bugs or ask questions about YJIT, please [open an issue](https://github.com/Shopify/ruby/issues) on the Shopify/ruby repository. When reporting bugs, please include as much detail as possible regarding your current setup (e.g. OS, platform, Ruby version), and the console commands you used to run YJIT.
 
